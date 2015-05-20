@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lauravelasquezcano.guatape_turismo_v2.Acerca_de"
+    android:orientation="vertical"
+    android:background="@drawable/acerca_de">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/acerca_de_descripcion"
+        android:layout_margin="10dp"
+        android:textSize="20dp"
+        android:textColor="@color/black"/>
+
+</FrameLayout>

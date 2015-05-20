@@ -1,0 +1,90 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lauravelasquezcano.punto2.Hoteles">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hotel1"
+            android:layout_gravity="center"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:typeface="monospace"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/hotel1">
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descripcion1"
+            android:textSize="15dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:typeface="monospace"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hotel2"
+            android:layout_gravity="center"
+            android:textSize="15dp"
+            android:layout_marginTop="10dp"
+            android:typeface="monospace"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/hotel2">
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descripcion2"
+            android:textSize="15dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:typeface="monospace"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hotel3"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:typeface="monospace"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/hotel3">
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descripcion3"
+            android:textSize="15dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:typeface="monospace"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

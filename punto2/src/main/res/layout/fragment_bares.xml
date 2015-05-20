@@ -1,0 +1,93 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lauravelasquezcano.punto2.Bares">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bar1"
+            android:layout_gravity="center"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:typeface="monospace"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/bar1">
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descrpcion_bar1"
+            android:textSize="15dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:typeface="monospace"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bar2"
+            android:layout_gravity="center"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:typeface="monospace"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/bar2">
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descripcion_bar2"
+            android:textSize="15dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:typeface="monospace"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bar3"
+            android:layout_gravity="center"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:typeface="monospace"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/bar3">
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descripcion_bar3"
+            android:textSize="15dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:typeface="monospace"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

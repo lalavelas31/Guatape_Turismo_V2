@@ -1,0 +1,51 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="app_name">Guatape_Turismo</string>
+    <string name="guatape">GUATAPE</string>
+    <string name="publicidad">Publicidad</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="bares">Bares</string>
+    <string name="sitios_turisticos">Sitios Turísticios</string>
+    <string name="demografia">Demografía</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="title_activity_hoteles">hoteles</string>
+    <string name="title_activity_bares">bares</string>
+    <string name="title_activity_sitios_turisticos">sitios_turisticos</string>
+    <string name="title_activity_demografia">demografia</string>
+    <string name="title_activity_acerca_de">acerca_de</string>
+    <string name="zocalos">Pueblo de lagos y zócalos.</string>
+    <string name="paraiso">Un paraíso entre las montañas.</string>
+    <string name="hotel1">Hotel Portobelo</string>
+    <string name="descripcion1">Es uno de los hoteles mas representativos por su arquitectura y comodidad, cuenta con una ubicación privilegiada frente al malecón de Guatapé y suites tematicas con hermosa vista a la represa.\nReservas:(57)(4)8610016 - 312 783 4050 </string>
+    <string name="hotel2">Hotel campestre los picapiedras</string>
+    <string name="descripcion2">Hermoso hotel ubicado a 9 km del pueblo de Guatapé, cuenta con confortables espacios, salida a la represa y servicio de restaurante.\nTeléfono:(57)(4)8610053.\nCelular: 320 6532410 - 313 7931806</string>
+    <string name="hotel3">Hostal El Encuentro</string>
+    <string name="descripcion3">Ubicación privilegiada a 300 mtrs de Guatapé, hermosa vista a la represa y a la piedra del Peñol, en un sector muy tranquilo.\nReservas:(57)(4)861 1374</string>
+    <string name="acerca_de_descripcion">Guatape Turismo: información para el turista acerca del municipio de Guatapé, Antioquia\nVersión 1.0\nDesarrollado por Laura Velásquez Cano para el curso de aplicaciones móviles.\nContactenos: lalavelas31@hotmail.com</string>
+    <string name="bandera">BANDERA\n</string>
+    <string name="escudo">ESCUDO\n</string>
+    <string name="mapa">Mapa de corregimientos</string>
+    <string name="informacion_demografica">Población Total:5.623 hab. (2009)\nPoblación Urbana:4.182\nPoblación Rural: 1.441\nAlfabetismo:92.3%% (2005)\nZona urbana:93.8%%\nZona rural:87.8%%\n</string>
+    <string name="etnografia">Etnografía:\nSegún las cifras presentadas por el DANE del censo 2005, la composición etnográfica del municipio es:\nMestizos y blancos (99,96%%)\nAfrocolombianos (0,04%%)</string>
+    <string name="bar1">El ZOCALO</string>
+    <string name="descrpcion_bar1">El Zócalo (Delicias y Bar) es un lugar que ofrece variedad de comidas, bebidas y licores en un ambiente acogedor y basado en las raíces Guatapenses.\nContacto: 320 6651278</string>
+    <string name="bar2">LA PLAYITA</string>
+    <string name="descripcion_bar2">La Playita es el lugar indicado para disfrutar del paisaje de Guatapé, un excelente servicio de bar y parrilla en el día y en la noche.\nContacto: 321 7464300</string>
+    <string name="bar3">TIERRADENTRO</string>
+    <string name="descripcion_bar3">Restaurante de comida típica, donde encontrarás las diferentes comidas que caracterizan nuestro país.\nContacto: 320 7890079</string>
+    <string name="sitio1">PIEDRA DEL PEÑOL</string>
+    <string name="descripcion_sitio1">Se encuentra ubicada a 4 kmts de Guatapé, vía el Peñol, monolito de 200 mts de altura donde se obtiene una vista de 360º sobre la represa de Guatapé.\nAscenso (opcional): $10.000 COP</string>
+    <string name="sitio2">EL MALECÓN</string>
+    <string name="descripcion_sitio2">Ubicado  a una cuadra de la plaza principal con 1 kmt de extensión donde se puede disfrutar la mas variada gastronomía en los 25 restaurantes que allí se encuentran, con una vista privilegiada sobre la represa de Guatape.</string>
+    <string name="sitio3">COMFAMA GUATAPE</string>
+    <string name="descripcion_sitio3">Imagínate en la mitad de un bosque y al fondo una imponente represa. Respira profundo, cierra tus ojos y deja que tus sentidos se activen. Para que esta experiencia sea real, te invitamos a visitar el parque Comfama Guatapé. Acepta el reto en Aguaventura, haz un recorrido ecológico junto a una maravillosa vista y luego comparte con tu familia al aire libre de un rico asado y vive un día lleno de tranquilidad. </string>
+    <string name="title_activity_splash">Guatape_Turismo_V2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

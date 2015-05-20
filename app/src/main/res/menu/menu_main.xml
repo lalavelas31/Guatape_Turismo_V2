@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/m_publicidad"
+        android:title="@string/publicidad"
+        />
+
+    <item android:id="@+id/m_hoteles"
+        android:title="@string/hoteles"
+        />
+    <item android:id="@+id/m_bares"
+        android:title="@string/bares"
+        />
+    <item android:id="@+id/m_sitios_turisticos"
+        android:title="@string/sitios_turisticos"
+        />
+    <item android:id="@+id/m_demografia"
+        android:title="@string/demografia"
+        />
+    <item android:id="@+id/m_acerca_de"
+        android:title="@string/acerca_de"
+        />
+</menu>

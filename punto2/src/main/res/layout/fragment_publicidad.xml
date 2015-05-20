@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lauravelasquezcano.punto2.Publicidad"
+    android:background="@drawable/actividad1"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/paraiso"
+        android:textSize="18dp"
+        android:typeface="monospace"
+        android:textColor="@color/black"
+        android:layout_marginTop="440dp"
+        android:layout_gravity="center"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/guatape"
+        android:layout_gravity="center"
+        android:textSize="40dp"
+        android:textColor="@color/whitesmoke"
+        android:typeface="monospace"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/zocalos"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:typeface="monospace"
+        android:textColor="@color/black"
+        />
+
+
+</LinearLayout>

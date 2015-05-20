@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="guatape">GUATAPE</string>
+    <string name="publicidad">Advertising</string>
+    <string name="hoteles">Hotels</string>
+    <string name="bares">Bares</string>
+    <string name="sitios_turisticos">Turistic places</string>
+    <string name="demografia">Demography</string>
+    <string name="acerca_de">About</string>
+    <string name="zocalos">Skirting Boards and lakes town</string>
+    <string name="paraiso">A paradise in the mountains</string>
+    <string name="hotel1">Portobelo hotel</string>
+    <string name="descripcion1">It is one of the most representative hotels for its architecture and comfort, has a privileged location facing the boardwalk of Guatapé and thematic suites with beautiful views of the dam.\nReservations:(57)(4)8610016 - 312 783 4050</string>
+    <string name="hotel2">Flintstones countryside hotel</string>
+    <string name="descripcion2">Beautiful hotel located 9 km from the town of Guatapé, has comfortable spaces, exit to the dam and restaurant\nTelephone:(57)(4)8610053.\nCelphone: 320 6532410 - 313 7931806</string>
+    <string name="hotel3">El Encuentro hostel</string>
+    <string name="descripcion3">Privileged location 300 mtrs of Guatape, beautiful view of the dam and the Peñol stone, in a very quiet area.\nReservations:(57)(4)861 1374</string>
+    <string name="acerca_de_descripcion">Guatape Tourism: the tourist information about the municipality of Guatapé, Antioquia\nVersion 1.0\nDeveloped by Laura Velasquez Cano for mobile applications course\nContact:. Lalavelas31@hotmail.com</string>
+    <string name="bandera">FLAG\n</string>
+    <string name="escudo">SHIELD\n</string>
+    <string name="mapa">Map of districts</string>
+    <string name="informacion_demografica">Total population:5.623 hab. (2009)\nUrban population:4.182\nRural population: 1.441\nLiteracy:92.3%% (2005)\nUrban area:93.8%%\nRural area:87.8%%\n</string>
+    <string name="etnografia">Ethnography:\nAccording to figures provided by DANE 2005 census, the Ethnographic composition of the municipality is:\nMestizos and whites (99.96 %%)\nAfro (0.04 %%)</string>
+    <string name="bar1">El ZOCALO</string>
+    <string name="descrpcion_bar1">El Zócalo (Delicias and Bar) is a place that offers a variety of meals, drinks and spirits in a friendly environment and based on the Guatapes roots\n.Contact: 320 6651278</string>
+    <string name="bar2">LA PLAYITA</string>
+    <string name="descripcion_bar2">La Playita is the place to enjoy the scenery of Guatape, an excellent bar and grill in the day and at night\nContact: 321 7464300</string>
+    <string name="bar3">TIERRADENTRO</string>
+    <string name="descripcion_bar3">Typical food restaurant where you will find the different foods that characterize our country.\nContact: 320 7890079</string>
+    <string name="sitio1">PEÑOL STONE</string>
+    <string name="descripcion_sitio1">It is located at 4 kmts of Guatape, Peñol via , 200 meters high monolith where a 360 degree view on the Guatapé dam is obtained.\nAscent (optional): $10,000 COP</string>
+    <string name="sitio2">EL MALECÓN</string>
+    <string name="descripcion_sitio2">Located one block from the main square, 1 kmt extension where you can enjoy the most varied cuisine in 25 restaurants found there, with a privileged view over the Guatape dam.</string>
+    <string name="sitio3">COMFAMA GUATAPE</string>
+    <string name="descripcion_sitio3">Imagine yourself in the middle of a forest and in the background a stunning dam. Take a deep breath, close your eyes and let your senses are activated.\n\n\n\n\n\n\n\n\nTo make this experience real, we invite you to visit the park Comfama Guatapé.\n\n\n\n\n\n\n\n\n\n\nAccept the Aguaventura challenge, make an ecological tour with a wonderful view and then share with your family outdoors a delicious barbecue and live a day full of tranquility.</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
